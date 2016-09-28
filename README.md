@@ -1,4 +1,4 @@
 # hello-world
 My first repo!
 
-Student of App Dev
+App Dev Student
